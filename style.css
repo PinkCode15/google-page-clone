@@ -84,7 +84,7 @@ footer{
     justify-content: space-between;
 }
 
-.links-left{
+.links-left, .links-right{
     display: flex;
     justify-content: space-between;
     align-items: center;
